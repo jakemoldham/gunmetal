@@ -46,9 +46,9 @@ hi VertSplit        ctermfg=241     ctermbg=241     cterm=NONE      guifg=#60606
 hi Visual           ctermfg=NONE    ctermbg=236     cterm=NONE      guifg=NONE          guibg=#303030   gui=NONE
 hi WarningMsg       ctermfg=255     ctermbg=167     cterm=NONE      guifg=#EEEEEE       guibg=#F26855   gui=NONE
 hi NERDTreeUp       ctermfg=167     ctermbg=NONE    cterm=NONE      guifg=#F26855       guibg=NONE      gui=NONE
-hi NERDTreeDir      ctermfg=141     ctermbg=NONE    cterm=bold      guifg=#af87d7       guibg=NONE      gui=bold
+hi NERDTreeDir      ctermfg=141     ctermbg=NONE    cterm=bold      guifg=#606060       guibg=NONE      gui=bold
 hi NERDTreeDirSlash ctermfg=219     ctermbg=NONE    cterm=NONE      guifg=#d7d787       guibg=NONE      gui=NONE
-hi NERDTreeFile     ctermfg=117     ctermbg=NONE    cterm=NONE      guifg=#87afd7       guibg=NONE      gui=NONE
+hi NERDTreeFile     ctermfg=117     ctermbg=NONE    cterm=NONE      guifg=#d7df87       guibg=NONE      gui=NONE
 hi NERDTreeCWD      ctermfg=167     ctermbg=NONE    cterm=NONE      guifg=#F26855       guibg=NONE      gui=NONE
 hi NERDTreeOpenable ctermfg=167     ctermbg=NONE    cterm=NONE      guifg=#F26855       guibg=NONE      gui=NONE
 hi NERDTreeClosable ctermfg=167     ctermbg=NONE    cterm=NONE      guifg=#F26855       guibg=NONE      gui=NONE
